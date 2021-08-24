@@ -802,7 +802,7 @@ OnTouch:
 	end;
 }
 
-izlude_a,198,213,3	duplicate(Captain Carocc#iz)	Captain Carocc#iz_a	4_M_REINDEER,5,5
+//izlude_a,198,213,3	duplicate(Captain Carocc#iz)	Captain Carocc#iz_a	4_M_REINDEER,5,5
 izlude_b,198,213,3	duplicate(Captain Carocc#iz)	Captain Carocc#iz_b	4_M_REINDEER,5,5
 izlude_c,198,213,3	duplicate(Captain Carocc#iz)	Captain Carocc#iz_c	4_M_REINDEER,5,5
 izlude_d,198,213,3	duplicate(Captain Carocc#iz)	Captain Carocc#iz_d	4_M_REINDEER,5,5
@@ -1122,7 +1122,7 @@ OnTouch:
 	end;
 }
 
-izlude_a,122,207,3	duplicate(Criatura Academy Staff#0)	Criatura Academy Staff#a	4_M_KHKYEL,3,3
+////izlude_a,122,207,3	duplicate(Criatura Academy Staff#0)	Criatura Academy Staff#a	4_M_KHKYEL,3,3
 izlude_b,122,207,3	duplicate(Criatura Academy Staff#0)	Criatura Academy Staff#b	4_M_KHKYEL,3,3
 izlude_c,122,207,3	duplicate(Criatura Academy Staff#0)	Criatura Academy Staff#c	4_M_KHKYEL,3,3
 izlude_d,122,207,3	duplicate(Criatura Academy Staff#0)	Criatura Academy Staff#d	4_M_KHKYEL,3,3
@@ -1636,7 +1636,7 @@ OnInit:
 	end;
 }
 
-izlude_a,120,207,4	duplicate(Information Staff#0)	Information Staff#a	8W_SOLDIER
+//izlude_a,120,207,4	duplicate(Information Staff#0)	Information Staff#a	8W_SOLDIER
 izlude_b,120,207,4	duplicate(Information Staff#0)	Information Staff#b	8W_SOLDIER
 izlude_c,120,207,4	duplicate(Information Staff#0)	Information Staff#c	8W_SOLDIER
 izlude_d,120,207,4	duplicate(Information Staff#0)	Information Staff#d	8W_SOLDIER
@@ -1774,7 +1774,7 @@ OnTouch:
 	end;
 }
 
-izlude_a,179,75,3	duplicate(Airship#iz)	Airship#iz_a	4_BULLETIN_BOARD2,3,3
+//izlude_a,179,75,3	duplicate(Airship#iz)	Airship#iz_a	4_BULLETIN_BOARD2,3,3
 izlude_b,179,75,3	duplicate(Airship#iz)	Airship#iz_b	4_BULLETIN_BOARD2,3,3
 izlude_c,179,75,3	duplicate(Airship#iz)	Airship#iz_c	4_BULLETIN_BOARD2,3,3
 izlude_d,179,75,3	duplicate(Airship#iz)	Airship#iz_d	4_BULLETIN_BOARD2,3,3
@@ -1916,7 +1916,7 @@ OnTouch:
 	end;
 }
 
-izlude_a,207,167,3	duplicate(Arena#iz)	Arena#iz_a	4_BULLETIN_BOARD2,3,3
+//izlude_a,207,167,3	duplicate(Arena#iz)	Arena#iz_a	4_BULLETIN_BOARD2,3,3
 izlude_b,207,167,3	duplicate(Arena#iz)	Arena#iz_b	4_BULLETIN_BOARD2,3,3
 izlude_c,207,167,3	duplicate(Arena#iz)	Arena#iz_c	4_BULLETIN_BOARD2,3,3
 izlude_d,207,167,3	duplicate(Arena#iz)	Arena#iz_d	4_BULLETIN_BOARD2,3,3
@@ -2058,7 +2058,7 @@ OnTouch:
 	end;
 }
 
-izlude_a,45,94,3	duplicate(Bulletin Board#iz)	Bulletin Board#iz_a	4_BULLETIN_BOARD2,3,3
+//izlude_a,45,94,3	duplicate(Bulletin Board#iz)	Bulletin Board#iz_a	4_BULLETIN_BOARD2,3,3
 izlude_b,45,94,3	duplicate(Bulletin Board#iz)	Bulletin Board#iz_b	4_BULLETIN_BOARD2,3,3
 izlude_c,45,94,3	duplicate(Bulletin Board#iz)	Bulletin Board#iz_c	4_BULLETIN_BOARD2,3,3
 izlude_d,45,94,3	duplicate(Bulletin Board#iz)	Bulletin Board#iz_d	4_BULLETIN_BOARD2,3,3
@@ -2296,7 +2296,7 @@ OnTimer30000:
 	end;
 }
 
-izlude_a,141,251,0	duplicate(Cultivated Red Plant#0)	Cultivated Red Plant#a	1078,3,3
+//izlude_a,141,251,0	duplicate(Cultivated Red Plant#0)	Cultivated Red Plant#a	1078,3,3
 izlude_b,141,251,0	duplicate(Cultivated Red Plant#0)	Cultivated Red Plant#b	1078,3,3
 izlude_c,141,251,0	duplicate(Cultivated Red Plant#0)	Cultivated Red Plant#c	1078,3,3
 izlude_d,141,251,0	duplicate(Cultivated Red Plant#0)	Cultivated Red Plant#d	1078,3,3
@@ -2409,7 +2409,7 @@ OnInit:
 	end;
 }
 
-izlude_a,140,249,7	duplicate(Academy Student#0)	Academy Student#a	4_M_NOV_RUMIN
+//izlude_a,140,249,7	duplicate(Academy Student#0)	Academy Student#a	4_M_NOV_RUMIN
 izlude_b,140,249,7	duplicate(Academy Student#0)	Academy Student#b	4_M_NOV_RUMIN
 izlude_c,140,249,7	duplicate(Academy Student#0)	Academy Student#c	4_M_NOV_RUMIN
 izlude_d,140,249,7	duplicate(Academy Student#0)	Academy Student#d	4_M_NOV_RUMIN
@@ -2578,7 +2578,7 @@ OnInit:
 	end;
 }
 
-izlude_a,140,260,3	duplicate(Instructor Argos#iz)	Instructor Argos#iz_a	4_M_LIEMAN
+//izlude_a,140,260,3	duplicate(Instructor Argos#iz)	Instructor Argos#iz_a	4_M_LIEMAN
 izlude_b,140,260,3	duplicate(Instructor Argos#iz)	Instructor Argos#iz_b	4_M_LIEMAN
 izlude_c,140,260,3	duplicate(Instructor Argos#iz)	Instructor Argos#iz_c	4_M_LIEMAN
 izlude_d,140,260,3	duplicate(Instructor Argos#iz)	Instructor Argos#iz_d	4_M_LIEMAN
@@ -3646,7 +3646,7 @@ OnInit:
 	end;
 }
 
-izlude_a,115,181,5	duplicate(Shop Helper#iz)	Shop Helper#iz_a	4_F_KHELLISIA
+//izlude_a,115,181,5	duplicate(Shop Helper#iz)	Shop Helper#iz_a	4_F_KHELLISIA
 izlude_b,115,181,5	duplicate(Shop Helper#iz)	Shop Helper#iz_b	4_F_KHELLISIA
 izlude_c,115,181,5	duplicate(Shop Helper#iz)	Shop Helper#iz_c	4_F_KHELLISIA
 izlude_d,115,181,5	duplicate(Shop Helper#iz)	Shop Helper#iz_d	4_F_KHELLISIA
@@ -4253,11 +4253,11 @@ iz_ac01,147,50,3	script	Dacquoise#ac	4_COOK,{
 				mes "[Mille Feuille]";
 				mes "Ingredients- ^0000cd1 Clover, 1 Green Herb, 1 Red Herb^000000.";
 				next;
-				cutin "·ç³ªÆ½Ä«µå.bmp", 3;
+				cutin "ï¿½ç³ªÆ½Ä«ï¿½ï¿½.bmp", 3;
 				mes "[Dacquoise]";
 				mes "Clover and the Red Herb are dropped by Lunatic or Fabre monsters wandering everywhere on the field outside Izlude.";
 				next;
-				cutin "ÆÄºê¸£Ä«µå.bmp", 3;
+				cutin "ï¿½Äºê¸£Ä«ï¿½ï¿½.bmp", 3;
 				mes "[Eclaire]";
 				mes "Green Herbs are dropped by Fabres.";
 				next;
@@ -4279,11 +4279,11 @@ iz_ac01,147,50,3	script	Dacquoise#ac	4_COOK,{
 				mes "[Mille Feuille]";
 				mes "Ingredients are ^0000cd1 Apple & 2 Carrots^000000.";
 				next;
-				cutin "Æ÷¸µÄ«µå.bmp", 3;
+				cutin "ï¿½ï¿½ï¿½ï¿½Ä«ï¿½ï¿½.bmp", 3;
 				mes "[Dacquoise]";
 				mes "Apples are dropped by Porings bouncing around the field outside of Izlude.";
 				next;
-				cutin "·ç³ªÆ½Ä«µå.bmp", 3;
+				cutin "ï¿½ç³ªÆ½Ä«ï¿½ï¿½.bmp", 3;
 				mes "[Eclaire]";
 				mes "Carrots are given by Lunatics.";
 				next;
@@ -4305,15 +4305,15 @@ iz_ac01,147,50,3	script	Dacquoise#ac	4_COOK,{
 				mes "[Mille Feuille]";
 				mes "Ingredients are ^0000cd1 Jellopy, 1 Fluff, 1 Feather^000000.";
 				next;
-				cutin "Æ÷¸µÄ«µå.bmp", 3;
+				cutin "ï¿½ï¿½ï¿½ï¿½Ä«ï¿½ï¿½.bmp", 3;
 				mes "[Dacquoise]";
 				mes "Jellopy are dropped by Porings bouncing around the field of Izlude.";
 				next;
-				cutin "ÆÄºê¸£Ä«µå.bmp", 3;
+				cutin "ï¿½Äºê¸£Ä«ï¿½ï¿½.bmp", 3;
 				mes "[Eclaire]";
 				mes "Fluff can be received from Fabre or Lunatic.";
 				next;
-				cutin "·ç³ªÆ½Ä«µå.bmp", 3;
+				cutin "ï¿½ç³ªÆ½Ä«ï¿½ï¿½.bmp", 3;
 				mes "[Mille Feuille]";
 				mes "Feathers are dropped by Lunatics or Fabres.";
 				next;
@@ -4335,11 +4335,11 @@ iz_ac01,147,50,3	script	Dacquoise#ac	4_COOK,{
 				mes "[Mille Feuille]";
 				mes "Ingredients are-^0000cd 1 Apple & 1 Clover^000000.";
 				next;
-				cutin "Æ÷¸µÄ«µå.bmp", 3;
+				cutin "ï¿½ï¿½ï¿½ï¿½Ä«ï¿½ï¿½.bmp", 3;
 				mes "[Dacquoise]";
 				mes "Apple can be found in Porings in the field outside of Izlude.";
 				next;
-				cutin "·ç³ªÆ½Ä«µå.bmp", 3;
+				cutin "ï¿½ç³ªÆ½Ä«ï¿½ï¿½.bmp", 3;
 				mes "[Eclaire]";
 				mes "Clovers are dropped by Lunatics or Fabre in the field outside Izlude.";
 				next;
@@ -5614,7 +5614,7 @@ izlude,102,150,5	script	Wedding Secretary#iz	1_F_LIBRARYGIRL,{
 	}
 }
 
-izlude_a,102,150,5	duplicate(Wedding Secretary#iz)	Wedding Secretary#iz_a	1_F_LIBRARYGIRL
+//izlude_a,102,150,5	duplicate(Wedding Secretary#iz)	Wedding Secretary#iz_a	1_F_LIBRARYGIRL
 izlude_b,102,150,5	duplicate(Wedding Secretary#iz)	Wedding Secretary#iz_b	1_F_LIBRARYGIRL
 izlude_c,102,150,5	duplicate(Wedding Secretary#iz)	Wedding Secretary#iz_c	1_F_LIBRARYGIRL
 izlude_d,102,150,5	duplicate(Wedding Secretary#iz)	Wedding Secretary#iz_d	1_F_LIBRARYGIRL
@@ -5680,7 +5680,7 @@ izlude,95,146,5	script	Mom#iz	4_F_CAVE1,{
 	close;
 }
 
-izlude_a,95,146,5	duplicate(Mom#iz)	Mom#iz_a	4_F_CAVE1
+//izlude_a,95,146,5	duplicate(Mom#iz)	Mom#iz_a	4_F_CAVE1
 izlude_b,95,146,5	duplicate(Mom#iz)	Mom#iz_b	4_F_CAVE1
 izlude_c,95,146,5	duplicate(Mom#iz)	Mom#iz_c	4_F_CAVE1
 izlude_d,95,146,5	duplicate(Mom#iz)	Mom#iz_d	4_F_CAVE1
@@ -5702,7 +5702,7 @@ izlude,97,147,3	script	Dad#iz	1_M_JOBGUIDER,{
 	close;
 }
 
-izlude_a,97,147,3	duplicate(Dad#iz)	Dad#iz_a	1_M_JOBGUIDER
+//izlude_a,97,147,3	duplicate(Dad#iz)	Dad#iz_a	1_M_JOBGUIDER
 izlude_b,97,147,3	duplicate(Dad#iz)	Dad#iz_b	1_M_JOBGUIDER
 izlude_c,97,147,3	duplicate(Dad#iz)	Dad#iz_c	1_M_JOBGUIDER
 izlude_d,97,147,3	duplicate(Dad#iz)	Dad#iz_d	1_M_JOBGUIDER
@@ -5719,7 +5719,7 @@ OnInit:
 	end;
 }
 
-izlude_a,97,144,1	duplicate(Etinifni#iz)	Etinifni#iz_a	4_M_DEWBOY
+//izlude_a,97,144,1	duplicate(Etinifni#iz)	Etinifni#iz_a	4_M_DEWBOY
 izlude_b,97,144,1	duplicate(Etinifni#iz)	Etinifni#iz_b	4_M_DEWBOY
 izlude_c,97,144,1	duplicate(Etinifni#iz)	Etinifni#iz_c	4_M_DEWBOY
 izlude_d,97,144,1	duplicate(Etinifni#iz)	Etinifni#iz_d	4_M_DEWBOY
@@ -5749,7 +5749,7 @@ izlude,99,138,3	script	Romantic Male#iz	4_M_SITDOWN,{
 	close;
 }
 
-izlude_a,99,138,3	duplicate(Romantic Male#iz)	Romantic Male#iz_a	4_M_SITDOWN
+//izlude_a,99,138,3	duplicate(Romantic Male#iz)	Romantic Male#iz_a	4_M_SITDOWN
 izlude_b,99,138,3	duplicate(Romantic Male#iz)	Romantic Male#iz_b	4_M_SITDOWN
 izlude_c,99,138,3	duplicate(Romantic Male#iz)	Romantic Male#iz_c	4_M_SITDOWN
 izlude_d,99,138,3	duplicate(Romantic Male#iz)	Romantic Male#iz_d	4_M_SITDOWN
@@ -5792,7 +5792,7 @@ izlude,97,138,5	script	Romantic Female#iz	4_F_SITDOWN,{
 	close;
 }
 
-izlude_a,97,138,5	duplicate(Romantic Female#iz)	Romantic Female#iz_a	4_F_SITDOWN
+//izlude_a,97,138,5	duplicate(Romantic Female#iz)	Romantic Female#iz_a	4_F_SITDOWN
 izlude_b,97,138,5	duplicate(Romantic Female#iz)	Romantic Female#iz_b	4_F_SITDOWN
 izlude_c,97,138,5	duplicate(Romantic Female#iz)	Romantic Female#iz_c	4_F_SITDOWN
 izlude_d,97,138,5	duplicate(Romantic Female#iz)	Romantic Female#iz_d	4_F_SITDOWN
@@ -5827,7 +5827,7 @@ OnInit:
 	end;
 }
 
-izlude_a,93,143,3	duplicate(Manufacturing Maniac#0)	Manufacturing Maniac#a	2_M_ALCHE
+//izlude_a,93,143,3	duplicate(Manufacturing Maniac#0)	Manufacturing Maniac#a	2_M_ALCHE
 izlude_b,93,143,3	duplicate(Manufacturing Maniac#0)	Manufacturing Maniac#b	2_M_ALCHE
 izlude_c,93,143,3	duplicate(Manufacturing Maniac#0)	Manufacturing Maniac#c	2_M_ALCHE
 izlude_d,93,143,3	duplicate(Manufacturing Maniac#0)	Manufacturing Maniac#d	2_M_ALCHE
@@ -5847,7 +5847,7 @@ OnTouch:
 	end;
 }
 
-izlude_a,147,131,5	duplicate(Repairing Blacksmith#0)	Repairing Blacksmith#a	4_F_JOB_BLACKSMITH,5,7
+//izlude_a,147,131,5	duplicate(Repairing Blacksmith#0)	Repairing Blacksmith#a	4_F_JOB_BLACKSMITH,5,7
 izlude_b,147,131,5	duplicate(Repairing Blacksmith#0)	Repairing Blacksmith#b	4_F_JOB_BLACKSMITH,5,7
 izlude_c,147,131,5	duplicate(Repairing Blacksmith#0)	Repairing Blacksmith#c	4_F_JOB_BLACKSMITH,5,7
 izlude_d,147,131,5	duplicate(Repairing Blacksmith#0)	Repairing Blacksmith#d	4_F_JOB_BLACKSMITH,5,7
@@ -5882,7 +5882,7 @@ izlude,148,122,5	script	Refining Maniac#iz	4_M_SITDOWN,{
 	close;
 }
 
-izlude_a,148,122,5	duplicate(Refining Maniac#iz)	Refining Maniac#iz_a	4_M_SITDOWN
+//izlude_a,148,122,5	duplicate(Refining Maniac#iz)	Refining Maniac#iz_a	4_M_SITDOWN
 izlude_b,148,122,5	duplicate(Refining Maniac#iz)	Refining Maniac#iz_b	4_M_SITDOWN
 izlude_c,148,122,5	duplicate(Refining Maniac#iz)	Refining Maniac#iz_c	4_M_SITDOWN
 izlude_d,148,122,5	duplicate(Refining Maniac#iz)	Refining Maniac#iz_d	4_M_SITDOWN
@@ -12778,7 +12778,7 @@ OnInit:
 	end;
 }
 
-izlude_a,153,126,1	duplicate(Refinery Owner Han#iz)	Refinery Owner Han#iz_a	4_M_02
+//izlude_a,153,126,1	duplicate(Refinery Owner Han#iz)	Refinery Owner Han#iz_a	4_M_02
 izlude_b,153,126,1	duplicate(Refinery Owner Han#iz)	Refinery Owner Han#iz_b	4_M_02
 izlude_c,153,126,1	duplicate(Refinery Owner Han#iz)	Refinery Owner Han#iz_c	4_M_02
 izlude_d,153,126,1	duplicate(Refinery Owner Han#iz)	Refinery Owner Han#iz_d	4_M_02
@@ -12941,7 +12941,7 @@ izlude_d,153,126,1	duplicate(Refinery Owner Han#iz)	Refinery Owner Han#iz_d	4_M_
 }
 
 izlude,153,121,3	duplicate(izludeWagjak)	Refining Machine Wagjak::iz	2_MONEMUS
-izlude_a,153,121,3	duplicate(izludeWagjak)	Refining Machine Wagjak::iz_a	2_MONEMUS
+//izlude_a,153,121,3	duplicate(izludeWagjak)	Refining Machine Wagjak::iz_a	2_MONEMUS
 izlude_b,153,121,3	duplicate(izludeWagjak)	Refining Machine Wagjak::iz_b	2_MONEMUS
 izlude_c,153,121,3	duplicate(izludeWagjak)	Refining Machine Wagjak::iz_c	2_MONEMUS
 izlude_d,153,121,3	duplicate(izludeWagjak)	Refining Machine Wagjak::iz_d	2_MONEMUS
@@ -13194,7 +13194,7 @@ izlude,145,122,7	script	Tadde#iz	4_M_04,{
 	}
 }
 
-izlude_a,145,122,7	duplicate(Tadde#iz)	Tadde#iz_a	4_M_04
+//izlude_a,145,122,7	duplicate(Tadde#iz)	Tadde#iz_a	4_M_04
 izlude_b,145,122,7	duplicate(Tadde#iz)	Tadde#iz_b	4_M_04
 izlude_c,145,122,7	duplicate(Tadde#iz)	Tadde#iz_c	4_M_04
 izlude_d,145,122,7	duplicate(Tadde#iz)	Tadde#iz_d	4_M_04
@@ -13553,7 +13553,7 @@ izlude,155,132,3	script	Locas#iz	4_M_02,{
 	}
 }
 
-izlude_a,155,132,3	duplicate(Locas#iz)	Locas#iz_a	4_M_02
+//izlude_a,155,132,3	duplicate(Locas#iz)	Locas#iz_a	4_M_02
 izlude_b,155,132,3	duplicate(Locas#iz)	Locas#iz_b	4_M_02
 izlude_c,155,132,3	duplicate(Locas#iz)	Locas#iz_c	4_M_02
 izlude_d,155,132,3	duplicate(Locas#iz)	Locas#iz_d	4_M_02
@@ -13917,7 +13917,7 @@ OnInit:
 	end;
 }
 
-izlude_a,96,125,7	duplicate(Enchanter Mounds#iz)	Enchanter Mounds#iz_a	4_CAT_SAILOR2
+//izlude_a,96,125,7	duplicate(Enchanter Mounds#iz)	Enchanter Mounds#iz_a	4_CAT_SAILOR2
 izlude_b,96,125,7	duplicate(Enchanter Mounds#iz)	Enchanter Mounds#iz_b	4_CAT_SAILOR2
 izlude_c,96,125,7	duplicate(Enchanter Mounds#iz)	Enchanter Mounds#iz_c	4_CAT_SAILOR2
 izlude_d,96,125,7	duplicate(Enchanter Mounds#iz)	Enchanter Mounds#iz_d	4_CAT_SAILOR2
@@ -14124,7 +14124,7 @@ izlude,108,139,7	script	Enchanter Almond J#iz	4_CAT_SAILOR3,{
 	close;
 }
 
-izlude_a,108,139,7	duplicate(Enchanter Almond J#iz)	Enchanter Almond J#iz_a	4_CAT_SAILOR3
+//izlude_a,108,139,7	duplicate(Enchanter Almond J#iz)	Enchanter Almond J#iz_a	4_CAT_SAILOR3
 izlude_b,108,139,7	duplicate(Enchanter Almond J#iz)	Enchanter Almond J#iz_b	4_CAT_SAILOR3
 izlude_c,108,139,7	duplicate(Enchanter Almond J#iz)	Enchanter Almond J#iz_c	4_CAT_SAILOR3
 izlude_d,108,139,7	duplicate(Enchanter Almond J#iz)	Enchanter Almond J#iz_d	4_CAT_SAILOR3
@@ -14190,7 +14190,7 @@ izlude,158,130,4	script	Repair Man#iz	4_M_04,{
 	}
 }
 
-izlude_a,158,130,4	duplicate(Repair Man#iz)	Repair Man#iz_a	4_M_04
+//izlude_a,158,130,4	duplicate(Repair Man#iz)	Repair Man#iz_a	4_M_04
 izlude_b,158,130,4	duplicate(Repair Man#iz)	Repair Man#iz_b	4_M_04
 izlude_c,158,130,4	duplicate(Repair Man#iz)	Repair Man#iz_c	4_M_04
 izlude_d,158,130,4	duplicate(Repair Man#iz)	Repair Man#iz_d	4_M_04

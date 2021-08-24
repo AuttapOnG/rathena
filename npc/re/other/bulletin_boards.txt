@@ -32,7 +32,7 @@
 	close;
 }
 izlude,25,103,0	duplicate(BulletinBoard_iz)	Bulletin Board#5	837
-izlude_a,25,103,0	duplicate(BulletinBoard_iz)	Bulletin Board#5_a	837
+//izlude_a,25,103,0	duplicate(BulletinBoard_iz)	Bulletin Board#5_a	837
 izlude_b,25,103,0	duplicate(BulletinBoard_iz)	Bulletin Board#5_b	837
 izlude_c,25,103,0	duplicate(BulletinBoard_iz)	Bulletin Board#5_c	837
 izlude_d,25,103,0	duplicate(BulletinBoard_iz)	Bulletin Board#5_d	837

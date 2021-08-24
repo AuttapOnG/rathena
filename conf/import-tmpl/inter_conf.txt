@@ -1,0 +1,5 @@
+login_server_db: ragnarok_main
+ipban_db_db: ragnarok_main
+char_server_db: ragnarok_main
+map_server_db: ragnarok_main
+log_db_db: ragnarok_logs

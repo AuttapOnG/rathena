@@ -1,0 +1,4 @@
+izlude_a,155,199,3	script	Level Up	435,{
+	atcommand "@blvl +999";
+	atcommand "@jlvl +999";
+}

@@ -1,0 +1,24 @@
+-	script	BattleGuildTeamA	-1,{
+	mes "[Team A]";
+	mes "Are you ready?";
+	menu "Confirm",goToBattleField;
+	mes "Team A";
+	function Go {
+		warp getarg(0),getarg(1,0),getarg(2,0);
+	}
+	goToBattleField: Go("bat_b02",87,75);
+}
+
+izlude_a,86,165,6	duplicate(BattleGuildTeamA)	Battle Guild Team A#izl	452
+
+-	script	BattleGuildTeamB	-1,{
+	mes "[Team B]";
+	mes "Are you ready?";
+	menu "Confirm",goToBattleField;
+	function Go {
+		warp getarg(0),getarg(1,0),getarg(2,0);
+	}
+	goToBattleField: Go("bat_b02",311,225);
+}
+
+izlude_a,175,165,3	duplicate(BattleGuildTeamB)	Battle Guild Team B#izl	453
